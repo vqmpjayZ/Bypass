@@ -22,7 +22,7 @@ local Section = Tab:AddSection({
     Callback = function()
 OrionLib:Destroy()
 wait(1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/v3rge"))()
+loadstring(game:HttpGet(https://raw.githubusercontent.com/vqmpjayZ/Bypass/84e84d7a0ff13508c2465f3a8958e71f65917e40/v3rge"))()
     end
 })
 
