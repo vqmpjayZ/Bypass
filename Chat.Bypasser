@@ -1,6 +1,5 @@
 --[[ last updated 4.6.2024 (DD.MM.YY)
-R.I.P pc exploiting :❨
             join the discord gamers! (https//dsc.gg/vadriftz)
 --]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/v3rge"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/vadrifts"))()
