@@ -1,5 +1,8 @@
---[[ last updated 4.6.2024 (DD.MM.YY)
-            join the discord gamers! (https//dsc.gg/vadriftz)
+--[[
+last updated 4.6.2024 (DD.MM.YY)
+Roblox Chat Bypasser Script
+
+join the discord: https//dsc.gg/vadriftz
 --]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/vadrifts"))()
