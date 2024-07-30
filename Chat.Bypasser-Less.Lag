@@ -1,2 +1,5 @@
+--[[ Last Updated: 30.7.2024 (DD/MM/YY)
+Vadrifts Chat Bypasser Script, Join the discord: https://dsc.gg/vadriftz
+--]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/Less.Lag"))()
