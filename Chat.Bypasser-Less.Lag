@@ -4,4 +4,4 @@ Roblox Chat Bypasser Script (Less laggy version)
 join the discord: https//dsc.gg/vadriftz
 --]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/vadrifts.lesslag"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vqmpjayZ/Bypass/main/vadrifts-less.lag"))()
