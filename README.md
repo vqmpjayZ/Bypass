@@ -26,4 +26,10 @@ Vadrifts.byp remains the most legitmate looking bypasser ever 3 years later.
 Anything before V4 is lost media ima keep it a buck
 
 Vadrifts.byp V4.0.0
+
 [[ Re-Worked Entire Bypasser ]] (and fixed chat bypassing method)
+
+# Quick Links
+Discord: https://discord.gg/VPhjH4Kntp or https://dsc.gg/vadriftz or https://vadriftsdev.web.app/discord
+Official Websites: https://vadrifts.onrender.com or https://vadriftsdev.web.app
+Official Githubs: vqmpjayZ (new owner), vqmpjay (founder, original owner)
