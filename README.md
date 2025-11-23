@@ -1,35 +1,54 @@
 # Vadrifts.byp
-## The Most Powerful and BEST Roblox Chat Bypasser Script
+## Advanced Roblox Chat Bypasser (Established 2022)
 
-Vadrifts.byp founded by **vqmpjay** in 2022 (December) is the second oldest chat bypasser script ever released. The script focuses on bypassing the Roblox Chat Filters in the most Legitimate way possible.
-The script was the biggest and most known chat bypasser in 2023; unfortunately the server and the owner's account was deleted. But Vadrifts is back with Better scripts than before.
+Vadrifts.byp is a Roblox chat bypasser originally created in December 2022 by **vqmpjay**, making it one of the oldest and most established chat bypass systems. The project became widely known throughout 2023 for its stability, consistent bypassing results, and legitimate appearance.
 
-Vadrifts is completely safe, and the owners with malicious intent are no longer Owners.
+After the original servers and owner account were removed, the project went offline. It has now been fully restored, rewritten, and is actively maintained with improved features and updated methods.
 
-**Vadrifts.byp has been significantly improved over the years, let's check out the features:**
-- Automatic Chat Bypasser
-- 300+ Premade Chat Bypasses
-- New UI, Mobile-Friendly, User-Friendly
-- Community-Plugins
-- Custom Bypass Presets
-- Tag Detection
-- Tag Fixer
+Vadrifts.byp focuses on safe, reliable, and legitimate-looking Roblox chat bypassing. The system avoids suspicious behavior while providing one of the most complete bypass libraries available.
+
+---
+
+## Features
+
+- Automatic chat bypasser
+- 300+ pre-made chat bypasses
+- Mobile-friendly and user-friendly UI
+- Community plugin support
+- Custom bypass presets
+- Tag detection
+- Tag fixer
 - Chat spammer
 - Bang bot
-- Sus animations
-- More games support (Rate My Avatar (1 AND 2), Mic up, Pears to Pairs)
-- And so much more!! (Integrated features not directly related to Chat Bypassing)
+- Character animations
+- Multi-game support (Rate My Avatar 1 & 2, Mic Up, Pears to Pairs)
+- Additional integrated utilities not directly related to chat bypassing
 
-Vadrifts.byp remains the most legitmate looking bypasser ever 3 years later.
+Vadrifts.byp has remained one of the most consistent and legitimate-looking bypassers since its release.
 
-# Change Logs:
-Anything before V4 is lost media ima keep it a buck
+---
 
-Vadrifts.byp V4.0.0
+## Changelog
 
-[[ Re-Worked Entire Bypasser ]] (and fixed chat bypassing method)
+### V4.0.0
+- Complete rewrite of the bypassing system  
+- Updated and fixed bypassing methods  
+- Rebuilt interface and internal structure  
+- Versions prior to V4 are unavailable (lost media)
 
-# Quick Links
-Discord: https://discord.gg/VPhjH4Kntp or https://dsc.gg/vadriftz or https://vadriftsdev.web.app/discord
-Official Websites: https://vadrifts.onrender.com or https://vadriftsdev.web.app
-Official Githubs: vqmpjayZ (new owner), vqmpjay (founder, original owner)
+---
+
+## Links
+
+**Discord:**  
+https://discord.gg/VPhjH4Kntp  
+https://dsc.gg/vadriftz  
+https://vadriftsdev.web.app/discord  
+
+**Websites:**  
+https://vadrifts.onrender.com  
+https://vadriftsdev.web.app  
+
+**Official GitHub Accounts:**  
+- vqmpjayZ (current owner)  
+- vqmpjay (founder)
