@@ -12,7 +12,7 @@ Vadrifts.byp focuses on safe, reliable, and legitimate-looking Roblox chat bypas
 ## Features
 
 - Automatic chat bypasser
-- 300+ pre-made chat bypasses
+- 70+ pre-made chat bypasses
 - Mobile-friendly and user-friendly UI
 - Community plugin support
 - Custom bypass presets
