@@ -34,7 +34,7 @@ Vadrifts.byp has remained one of the most consistent and legitimate-looking bypa
 - Complete rewrite of the bypassing system  
 - Updated and fixed bypassing methods  
 - Rebuilt interface and internal structure  
-- Versions prior to V4 are unavailable (lost media)
+- Changelogs prior to V4 are unwritten lmao
 
 ---
 
